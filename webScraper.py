@@ -21,5 +21,10 @@ class CultBeautySpider(scrapy.Spider):
             }
 
 # READ THIS TO RUN PROGRAM
-# When you have changed the URL and you have a product you want to get the reviews for, copy and paste this command in the terminal and press enter >>
+# When you have changed the URL and you have a product you want to get the reviews for, copy and paste this command in the terminal and press enter
+
 # scrapy runspider webScraper.py -o reviews.json  
+
+# CHECK REVIEWS.JSON <<<<< FILE FOR THE RESULTS 
+
+
